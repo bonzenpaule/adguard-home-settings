@@ -168,7 +168,7 @@ I would additionally recommend adding the following lists:
 
 * ⭐️ anudeepND's Blacklist: `https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt`
 
-* ⭐️ My BadBlock: `https://codeberg.org/celenity/BadBlock/raw/branch/main/abp/badblock.txt`
+* ⭐️ My BadBlock: `https://badblock.celenity.dev/abp/badblock.txt`
 
 * ⭐️ CAMELEON: `https://sysctl.org/cameleon/hosts`
 
@@ -232,7 +232,7 @@ Additionally, if you're fine with a little breakage, I would highly recommend:
 
 * 1Hosts (Pro): `https://o0.pages.dev/Pro/adblock.txt`
 
-* My BadBlock **+** instead of BadBlock: `https://codeberg.org/celenity/BadBlock/raw/branch/main/abp/badblock_plus.txt`
+* My BadBlock **+** instead of BadBlock: `https://badblock.celenity.dev/abp/badblock_plus.txt`
 
 * HaGeZi's Encrypted DNS Servers - IPs: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-ips.txt`
 
@@ -242,7 +242,7 @@ You could also consider, depending on your preference:
 
 * DeveloperDan's AMP Blocklist: `https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt` - Blocks [AMP](https://brave.com/privacy-updates/18-de-amp/#why-is-amp-harmful) websites
 
-* BadBlock - DRM: `https://codeberg.org/celenity/BadBlock/raw/branch/main/abp/drm.txt` - Blocks websites associated with [DRM](https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next) technology/its provisioning 
+* BadBlock - DRM: `https://badblock.celenity.dev/abp/drm.txt` - Blocks websites associated with [DRM](https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next) technology/its provisioning 
 
 # DNS allowlists
 
