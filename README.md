@@ -248,7 +248,7 @@ You could also consider, depending on your preference:
 
 I would recommending adding the following here:
 
-* ⭐️ BadBlock Whitelist: `https://codeberg.org/celenity/BadBlock/raw/branch/main/whitelist.txt`
+* ⭐️ BadBlock Whitelist: `https://badblock.celenity.dev/abp/whitelist.txt`
 
 * ⭐️ HaGeZi's URL Shorteners: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt`
 
