@@ -186,7 +186,7 @@ I would additionally recommend adding the following lists:
 
 * ⭐️ Feudo Tracker Abuse: `https://feodotracker.abuse.ch/downloads/ipblocklist.txt`
 
-* ⭐️ FMHY Unsafe Sites: `https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt`
+* ⭐️ FMHY Unsafe sites filterlist - Plus: `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt`
 
 * ⭐️ FrogEye First Party Trackers: `https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt`
 
