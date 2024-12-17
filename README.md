@@ -34,7 +34,7 @@ Make sure to select **Save**.
 
 I would strongly recommend setting this to be [Quad9](https://www.quad9.net/) for the following reasons:
 
-* ⭐️ Based in Switzerland 
+* ⭐️ Based in Switzerland
 * ⭐️ Non-profit
 * ⭐️ Extremely effective at blocking malicious domains and threats right as they arise, moreso than AdGuard's protection above and most other DNS providers, see [here](https://divested.dev/misc/circumnavigator.txt) for a comparison.
 
@@ -44,7 +44,7 @@ Therefore, I would recommend setting this box to:
 
 `tls://dns.quad9.net`
 
-Make sure no other entries are present, so that Quad9 is actually enforced.
+Make sure no other entries are present, so that Quad9's blocking is not bypassed.
 
 <br>
 
@@ -80,7 +80,7 @@ Select **Save**.
 
 # Encryption settings
 
-This is out of scope for this guide, I'll probably make a separate guide dedicated just to setting this up. In the meantime, [here](https://github.com/AdguardTeam/AdGuardHome/wiki/Encryption/)'s AdGuard's documentation on this. I would recommend configuring this if possible.
+This is out of scope for this guide, I'll probably make a separate guide dedicated just to setting this up. In the meantime, [here](https://github.com/AdguardTeam/AdGuardHome/wiki/Encryption/)'s AdGuard's documentation on this. I would recommend configuring it if possible.
 
 <br>
 
